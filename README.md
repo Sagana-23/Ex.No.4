@@ -1,5 +1,5 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
+                                                                           
 ### REGISTER NUMBER : 212223090021
 
 ### Aim: 
